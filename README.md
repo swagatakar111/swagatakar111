@@ -2,7 +2,11 @@
 
 🚀 ** Full-Stack Developer | AI/ML Enthusiast**  
 💻 Passionate about coding, building projects, and exploring new technologies.  
-🐾 Golden Retriever lover & countryside dreamer.  
+
+
+
+[![Visit My GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwagataKar)
+
 
 ---
 
