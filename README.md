@@ -46,10 +46,8 @@
 
 ## 📫 Contact Me
 - Email: [swagatakar111@gmail.com](mailto:swagatakar111@gmail.com)  
-- GitHub: [github.com/SwagataKar](https://github.com/SwagataKar)  
+- GitHub: [github.com/SwagataKar](https://github.com/swagatakar111)  
 
 
-## 📫 Contact Me
-- Email: [swagatakar111@gmail.com](mailto:swagatakar111@gmail.com)  
-- GitHub: [github.com/SwagataKar](https://github.com/SwagataKar)  
+
 
