@@ -5,7 +5,7 @@
 
 
 
-[![Visit My GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwagataKar)
+[![Visit My GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swagatakar111)
 
 
 ---
