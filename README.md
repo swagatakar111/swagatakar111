@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Swagata Kar
 
-🚀 **Embedded Systems | Full-Stack Developer | AI/ML Enthusiast**  
+🚀 ** Full-Stack Developer | AI/ML Enthusiast**  
 💻 Passionate about coding, building projects, and exploring new technologies.  
 🐾 Golden Retriever lover & countryside dreamer.  
 
